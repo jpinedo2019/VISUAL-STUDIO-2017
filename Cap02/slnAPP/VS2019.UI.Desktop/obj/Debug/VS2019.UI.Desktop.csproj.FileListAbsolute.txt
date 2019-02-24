@@ -1,0 +1,15 @@
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.UI.Desktop.exe.config
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.UI.Desktop.exe
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.UI.Desktop.pdb
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.Data.dll
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.Entities.dll
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.Data.pdb
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\bin\Debug\VS2019.Entities.pdb
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.csprojAssemblyReference.cache
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.Form1.resources
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.Properties.Resources.resources
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.csproj.GenerateResource.cache
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.csproj.CoreCompileInputs.cache
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.csproj.CopyComplete
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.exe
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.UI.Desktop\obj\Debug\VS2019.UI.Desktop.pdb

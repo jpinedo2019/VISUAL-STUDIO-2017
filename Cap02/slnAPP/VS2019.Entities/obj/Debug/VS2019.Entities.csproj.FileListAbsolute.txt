@@ -1,0 +1,5 @@
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.Entities\bin\Debug\VS2019.Entities.dll
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.Entities\bin\Debug\VS2019.Entities.pdb
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.Entities\obj\Debug\VS2019.Entities.csproj.CoreCompileInputs.cache
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.Entities\obj\Debug\VS2019.Entities.dll
+C:\VS2017\LABS\VISUAL-STUDIO-2017\Cap02\slnAPP\VS2019.Entities\obj\Debug\VS2019.Entities.pdb
